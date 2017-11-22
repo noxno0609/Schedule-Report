@@ -25,4 +25,4 @@ Guess: 43 * 256 = 11008 + 102 = 11110
 Result (Check UI) 43-256 = 11110
 
 zxczxczxc123
-zxc123
+zxc
